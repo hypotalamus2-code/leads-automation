@@ -144,3 +144,7 @@ Google Form → Google Sheets → Make → Text Aggregator → Router → Telegr
 
 ### Email уведомление
 ![Email уведомление](Screenshot_4.jpg)
+
+### Логирование
+![Логирование](Screenshot_5.jpg)
+
