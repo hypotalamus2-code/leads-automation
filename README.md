@@ -55,3 +55,14 @@ Google Form → Google Sheets → Make → Text Aggregator → Router → Telegr
 - отправлять только новые заявки
 - помечать обработанные строки
 - добавлять обработку ошибок и retry
+
+  ## Скриншоты
+
+### Сценарий в Make
+![Сценарий в Make]Screenshot_2.jpg
+
+### Сообщение в Telegram
+![Сообщение в Telegram](Screenshot_1.jpg)
+
+### Email уведомление
+![Email уведомление](Screenshot_4.jpg)
