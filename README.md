@@ -59,7 +59,7 @@ Google Form → Google Sheets → Make → Text Aggregator → Router → Telegr
   ## Скриншоты
 
 ### Сценарий в Make
-![Сценарий в Make]Screenshot_2.jpg
+![Сценарий в Make](Screenshot_2.jpg)
 
 ### Сообщение в Telegram
 ![Сообщение в Telegram](Screenshot_1.jpg)
